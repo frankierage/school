@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1> "My name is Frank DiMartino"
+</h1>
+<p> "I like computer ,cars, and the gym.  I currently work at Crossroads as a I.T Support and im from Newyork."
+</p>
+</body>
+<head>
+<title>My Personal Introduction</title>
+<style>
+body{
+      background-color:6BBBB2;
+}
+h1{
+    background-color:B4352D;
+}
+p{
+color:F7ECDC;
+}
+</style>
+</head>
+</html>
