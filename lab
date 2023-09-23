@@ -3,19 +3,19 @@
 <head>
 <title>My Personal Introduction</title>
 <style>
-body{
-background-color:e9b062;
+body {
+  background-color: #e9b062;
 }
-h1{
-background-color:d3e09f;
+h1 {
+  background-color: #d3e09f;
 }
-p{
-color:38a886;
+p {
+  color: #38a886;
 }
 </style>
 </head>
 <body>
 <h1> "My name is Frank DiMartino"</h1>
-<p> "I like computer ,cars, and the gym.  I currently work at Crossroads as a I.T Support and im from Newyork."</p>
+<p> "I like computer ,cars, and the gym.  I currently work at Crossroads as a I.T Support. I am also from Newyork"</p>
 </body>
 </html>
